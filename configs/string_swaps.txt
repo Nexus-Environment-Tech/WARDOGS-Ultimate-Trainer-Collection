@@ -1,0 +1,6 @@
+# MK12Customizer String Swaps
+# Format: original_path=swapped_path
+# One per line, # for comments [citation:4]
+
+# Example: swap Raiden's lightning texture
+/Game/Characters/Raiden/VFX/Lightning_Material=/Game/Mods/CustomLightning/Material
