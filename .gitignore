@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+bin/
+obj/
+*.exe
+*.dll
+*.ehp
+*.asi
+
+# Game files (NEVER commit)
+*.pak
+*.utoc
+*.ucas
+*.sig
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
